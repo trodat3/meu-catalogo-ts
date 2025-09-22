@@ -1,0 +1,15 @@
+.navegacao {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 1rem;
+  background-color: #333;
+}
+.navegacao a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+.navegacao a:hover {
+  text-decoration: underline;
+}
