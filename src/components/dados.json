@@ -4,25 +4,25 @@
       "id": "A1",
       "nome": "Leão",
       "especie": "Panthera leo",
-      "imagem": "https://source.unsplash.com/random/300x200/?lion"
+      "imagem": "https://www.shutterstock.com/image-photo/panthera-leo-melanochaita-serengeti-national-260nw-2071499579.jpg"
     },
     {
       "id": "A2",
       "nome": "Elefante",
       "especie": "Loxodonta africana",
-      "imagem": "https://source.unsplash.com/random/300x200/?elephant"
+      "imagem": "https://www.shutterstock.com/image-photo/large-african-elephant-bull-loxodonta-260nw-2567365321.jpg"
     },
     {
       "id": "A3",
       "nome": "Pinguim Imperador",
       "especie": "Aptenodytes forsteri",
-      "imagem": "https://source.unsplash.com/random/300x200/?penguin"
+      "imagem": "https://www.shutterstock.com/image-photo/close-headshot-emperor-penguin-aptenodytes-260nw-2268879107.jpg"
     },
     {
       "id": "A4",
       "nome": "Girafa",
       "especie": "Giraffa camelopardalis",
-      "imagem": "https://source.unsplash.com/random/300x200/?giraffe"
+      "imagem": "https://www.shutterstock.com/image-photo/closeup-rothchild-giraffe-giraffa-camelopardalis-260nw-2674327615.jpg"
     }
   ],
   "livros": [
@@ -31,28 +31,28 @@
       "titulo": "O Senhor dos Anéis",
       "autor": "J.R.R. Tolkien",
       "ano": 1954,
-      "capa": "https://source.unsplash.com/random/300x200/?fantasy,book"
+      "capa": "https://www.shutterstock.com/image-photo/celadna-czechia-04032021-vintage-paperback-260nw-1948799797.jpg"
     },
     {
       "id": "L2",
       "titulo": "1984",
       "autor": "George Orwell",
       "ano": 1949,
-      "capa": "https://source.unsplash.com/random/300x200/?dystopian,book"
+      "capa": "https://www.shutterstock.com/image-photo/lviv-ukraine-january-3-2025-260nw-2601892743.jpg"
     },
     {
       "id": "L3",
       "titulo": "Dom Quixote",
       "autor": "Miguel de Cervantes",
       "ano": 1605,
-      "capa": "https://source.unsplash.com/random/300x200/?classic,book"
+      "capa": "https://www.shutterstock.com/image-photo/jaen-spain-on-3rd-september-260nw-2359931909.jpg"
     },
     {
       "id": "L4",
       "titulo": "Fahrenheit 451",
       "autor": "Ray Bradbury",
       "ano": 1953,
-      "capa": "https://source.unsplash.com/random/300x200/?sci-fi,book"
+      "capa": "https://www.shutterstock.com/image-photo/sydney-new-south-wales-australia-260nw-2612125657.jpg"
     }
   ],
   "pessoas": [
@@ -61,28 +61,28 @@
       "nome": "Marie Curie",
       "nascimento": "1867-11-07",
       "area": "Física e Química",
-      "foto": "https://source.unsplash.com/random/300x200/?scientist,woman"
+      "foto": "https://www.shutterstock.com/image-photo/north-korea-circa-1984-cancelled-260nw-2501391555.jpg"
     },
     {
       "id": "P2",
       "nome": "Albert Einstein",
       "nascimento": "1879-03-14",
       "area": "Física",
-      "foto": "https://source.unsplash.com/random/300x200/?scientist,man"
+      "foto": "https://www.shutterstock.com/image-photo/worldfamous-scientist-theoretical-physicist-nobel-260nw-2262838433.jpg"
     },
     {
       "id": "P3",
       "nome": "Ada Lovelace",
       "nascimento": "1815-12-10",
       "area": "Matemática e Computação",
-      "foto": "https://source.unsplash.com/random/300x200/?vintage,woman,computer"
+      "foto": "https://www.shutterstock.com/image-photo/bokeh-photo-realistic-portrait-ada-260nw-2642211293.jpg"
     },
     {
       "id": "P4",
       "nome": "Isaac Newton",
       "nascimento": "1643-01-04",
       "area": "Física e Matemática",
-      "foto": "https://source.unsplash.com/random/300x200/?vintage,scientist"
+      "foto": "https://www.shutterstock.com/image-photo/oil-painting-artistic-image-sir-260nw-2554368541.jpg"
     }
   ]
 }
