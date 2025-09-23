@@ -45,3 +45,13 @@
   max-width: 1200px;
   margin: 0 auto;
 }
+
+.container-app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.conteudo {
+  flex-grow: 1;
+  padding: 20px;
+}
